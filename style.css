@@ -1,0 +1,12 @@
+*{box-sizing:border-box}body{margin:0;font-family:Inter,Arial,sans-serif;background:#f5f7fb;color:#182230}
+header{display:flex;gap:14px;align-items:center;padding:22px 7%;background:#fff;border-bottom:1px solid #e5e7eb}
+.logo{font-size:36px}h1{margin:0;font-size:25px}header p{margin:4px 0 0;color:#667085}
+main{max-width:1000px;margin:auto;padding:40px 20px}.hero{background:#101828;color:white;border-radius:22px;padding:38px}
+.hero h2{font-size:32px;margin:0 0 8px}.hero p{color:#d0d5dd}.search{display:flex;gap:10px;margin-top:24px}
+input{flex:1;padding:16px 18px;border:0;border-radius:12px;font-size:16px}button{padding:0 22px;border:0;border-radius:12px;background:#fff;color:#101828;font-weight:700;cursor:pointer}
+.result{margin-top:24px;background:#fff;border-radius:20px;padding:28px;box-shadow:0 8px 30px #10182812}.hidden{display:none}
+.badge{display:inline-block;padding:7px 11px;border-radius:99px;background:#eef4ff;color:#175cd3;font-weight:700;font-size:13px}
+.result h2{margin:12px 0 5px}.meta{color:#667085;margin-bottom:22px}.route{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.step{padding:14px 16px;background:#f2f4f7;border-radius:12px}.arrow{font-weight:700}
+.how{padding:32px 0}.cards{display:flex;gap:15px;flex-wrap:wrap}.cards div{background:#fff;padding:18px;border-radius:14px;flex:1;min-width:190px}.cards b{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#101828;color:#fff;margin-right:10px}
+#suggestions{margin-top:12px;color:#98a2b3;font-size:14px}footer{text-align:center;padding:30px;color:#98a2b3}
+@media(max-width:650px){.search{flex-direction:column}button{height:52px}.hero h2{font-size:26px}}

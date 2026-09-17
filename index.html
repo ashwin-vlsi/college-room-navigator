@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SSGIET Room Navigator</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="logo">🧭</div>
+  <div><h1>College Room Navigator</h1><p>Sri Shakthi Institute of Engineering and Technology</p></div>
+</header>
+<main>
+  <section class="hero">
+    <h2>Find your classroom</h2>
+    <p>Enter a room number to instantly see its block, floor and directions.</p>
+    <div class="search">
+      <input id="roomInput" list="roomList" placeholder="Try: LH 302, LH 17, Lab 08..." autocomplete="off">
+      <datalist id="roomList"></datalist>
+      <button id="findBtn">Find Room</button>
+    </div>
+    <div id="suggestions"></div>
+  </section>
+
+  <section id="result" class="result hidden"></section>
+
+  <section class="how">
+    <h3>How it works</h3>
+    <div class="cards">
+      <div><b>1</b><span>Enter room number</span></div>
+      <div><b>2</b><span>System finds the block & floor</span></div>
+      <div><b>3</b><span>Follow the route</span></div>
+    </div>
+  </section>
+</main>
+<footer>Prototype • Room data based on the provided Exam Hall Location sheet</footer>
+<script src="script.js"></script>
+</body>
+</html>

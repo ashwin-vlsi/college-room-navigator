@@ -1,0 +1,488 @@
+[
+  {
+    "building": "Academic Block",
+    "floor": 0,
+    "location": "Academic Block - Ground Floor",
+    "room": "LH 01"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 0,
+    "location": "Academic Block - Ground Floor",
+    "room": "LH 02"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 0,
+    "location": "Academic Block - Ground Floor",
+    "room": "LH 03"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 0,
+    "location": "Academic Block - Ground Floor",
+    "room": "LH 04"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 0,
+    "location": "Academic Block - Ground Floor",
+    "room": "LH 05"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 0,
+    "location": "Academic Block - Ground Floor",
+    "room": "LH 06"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 1,
+    "location": "Academic Block - 1st Floor",
+    "room": "LH 07"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 1,
+    "location": "Academic Block - 1st Floor",
+    "room": "LH 08"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 1,
+    "location": "Academic Block - 1st Floor",
+    "room": "LH 09"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 1,
+    "location": "Academic Block - 1st Floor",
+    "room": "LH 10"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 1,
+    "location": "Academic Block - 1st Floor",
+    "room": "LH 11"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 1,
+    "location": "Academic Block - 1st Floor",
+    "room": "LH 12"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 2,
+    "location": "Academic Block - 2nd Floor",
+    "room": "LH 13"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 2,
+    "location": "Academic Block - 2nd Floor",
+    "room": "LH 14"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 2,
+    "location": "Academic Block - 2nd Floor",
+    "room": "LH 15"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 2,
+    "location": "Academic Block - 2nd Floor",
+    "room": "LH 16"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 3,
+    "location": "Academic Block - 3rd Floor",
+    "room": "LH 17"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 3,
+    "location": "Academic Block - 3rd Floor",
+    "room": "LH 18"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 3,
+    "location": "Academic Block - 3rd Floor",
+    "room": "LH 19"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 3,
+    "location": "Academic Block - 3rd Floor",
+    "room": "LH 20"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 3,
+    "location": "Academic Block - 3rd Floor",
+    "room": "LH 21"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 3,
+    "location": "Academic Block - 3rd Floor",
+    "room": "LH 22"
+  },
+  {
+    "building": "Academic Block",
+    "floor": 3,
+    "location": "Academic Block - 3rd Floor",
+    "room": "LH 23"
+  },
+  {
+    "building": "Library Block",
+    "floor": 2,
+    "location": "2nd Floor (above Library)",
+    "room": "LH 24"
+  },
+  {
+    "building": "Library Block",
+    "floor": 2,
+    "location": "2nd Floor (above Library)",
+    "room": "LH 25"
+  },
+  {
+    "building": "Library Block",
+    "floor": 2,
+    "location": "2nd Floor (above Library)",
+    "room": "LH 26"
+  },
+  {
+    "building": "Library Block",
+    "floor": 3,
+    "location": "3rd Floor (above Library)",
+    "room": "LH 27"
+  },
+  {
+    "building": "Library Block",
+    "floor": 3,
+    "location": "3rd Floor (above Library)",
+    "room": "LH 28"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 1,
+    "location": "1st Floor (above CIVIL Dept.)",
+    "room": "LH 30"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 2,
+    "location": "2nd Floor (above CIVIL Dept.)",
+    "room": "LH 32"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 2,
+    "location": "2nd Floor (above CIVIL Dept.)",
+    "room": "LH 33"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 3,
+    "location": "3rd Floor (above CIVIL Dept.)",
+    "room": "LH 34"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 3,
+    "location": "3rd Floor (above CIVIL Dept.)",
+    "room": "LH 34A"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 3,
+    "location": "3rd Floor (above CIVIL Dept.)",
+    "room": "LH 34B"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 3,
+    "location": "3rd Floor (above CIVIL Dept.)",
+    "room": "LH 34C"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 3,
+    "location": "3rd Floor (above CIVIL Dept.)",
+    "room": "LH 35"
+  },
+  {
+    "building": "Office Block",
+    "floor": 1,
+    "location": "1st Floor (above office)",
+    "room": "LH 36"
+  },
+  {
+    "building": "Office Block",
+    "floor": 1,
+    "location": "1st Floor (above office)",
+    "room": "LH 37"
+  },
+  {
+    "building": "Office Block",
+    "floor": 2,
+    "location": "2nd Floor (above office)",
+    "room": "LH 38"
+  },
+  {
+    "building": "Office Block",
+    "floor": 2,
+    "location": "2nd Floor (above office)",
+    "room": "LH 39"
+  },
+  {
+    "building": "Office Block",
+    "floor": 3,
+    "location": "3rd Floor (above office)",
+    "room": "LH 40"
+  },
+  {
+    "building": "Office Block",
+    "floor": 3,
+    "location": "3rd Floor (above office)",
+    "room": "LH 41"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 2,
+    "location": "2nd Floor (above AGRI Dept.)",
+    "room": "LH 42"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 2,
+    "location": "2nd Floor (above AGRI Dept.)",
+    "room": "LH 43"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 3,
+    "location": "3rd Floor (above AGRI Dept.)",
+    "room": "LH 44"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 3,
+    "location": "3rd Floor (above AGRI Dept.)",
+    "room": "LH 45"
+  },
+  {
+    "building": "EEE Block",
+    "floor": 1,
+    "location": "1st Floor (above EEE Dept.)",
+    "room": "LH 46"
+  },
+  {
+    "building": "EEE Block",
+    "floor": 1,
+    "location": "1st Floor (above EEE Dept.)",
+    "room": "LH 47"
+  },
+  {
+    "building": "EEE Block",
+    "floor": 2,
+    "location": "2nd Floor (above EEE Dept.)",
+    "room": "LH 48"
+  },
+  {
+    "building": "EEE Block",
+    "floor": 2,
+    "location": "2nd Floor (above EEE Dept.)",
+    "room": "LH 49"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 0,
+    "location": "Ground Floor (CIVIL Dept.)",
+    "room": "LH 50"
+  },
+  {
+    "building": "Mechanical Block",
+    "floor": 0,
+    "location": "Ground Floor - Mechanical Dept.",
+    "room": "LH 51"
+  },
+  {
+    "building": "Mechanical Block",
+    "floor": 0,
+    "location": "Ground Floor - Mechanical Dept.",
+    "room": "LH 52"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 2,
+    "location": "2nd Floor (above CIVIL Dept.)",
+    "room": "LH 53"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 2,
+    "location": "2nd Floor (above CIVIL Dept.)",
+    "room": "LH 54"
+  },
+  {
+    "building": "Civil Block",
+    "floor": 2,
+    "location": "2nd Floor (above CIVIL Dept.)",
+    "room": "LH 55"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 2,
+    "location": "2nd Floor (above AGRI Dept.)",
+    "room": "MELH 09"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 2,
+    "location": "2nd Floor (above AGRI Dept.)",
+    "room": "MELH 10"
+  },
+  {
+    "building": "EEE Block",
+    "floor": 1,
+    "location": "1st Floor (above EEE Dept.)",
+    "room": "MELH 12"
+  },
+  {
+    "building": "EEE Block",
+    "floor": 2,
+    "location": "2nd Floor (above EEE Dept.)",
+    "room": "MELH 13"
+  },
+  {
+    "building": "EEE Block",
+    "floor": 2,
+    "location": "2nd Floor (above EEE Dept.)",
+    "room": "MELH 14"
+  },
+  {
+    "building": "Library",
+    "floor": 0,
+    "location": "Ground Floor - Library",
+    "room": "Seminar Hall-II"
+  },
+  {
+    "building": "Mechanical Block",
+    "floor": 1,
+    "location": "1st Floor (above Mechanical Dept.)",
+    "room": "Lab 08"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 3,
+    "location": "3rd Floor (above AGRI Dept.)",
+    "room": "Lab 14"
+  },
+  {
+    "building": "Agri Block",
+    "floor": 3,
+    "location": "3rd Floor (above AGRI Dept.)",
+    "room": "Lab 15"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1A(I)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1A(II)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1B(I)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1B(II)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1B(III)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1C(I)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1C(II)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 1,
+    "location": "1st Floor (Tech Park) - New Block",
+    "room": "1C(III)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2A(I)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2A(II)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2B(I)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2B(II)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2B(III)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2C(I)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2C(II)"
+  },
+  {
+    "building": "Tech Park - New Block",
+    "floor": 2,
+    "location": "2nd Floor (Tech Park) - New Block",
+    "room": "2C(III)"
+  }
+]
